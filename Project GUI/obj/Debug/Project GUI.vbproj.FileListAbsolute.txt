@@ -10,3 +10,7 @@ C:\Users\Jacob Merritt\source\repos\Project GUI\Project GUI\obj\Debug\Project GU
 C:\Users\Jacob Merritt\source\repos\Project GUI\Project GUI\obj\Debug\Project GUI.xml
 C:\Users\Jacob Merritt\source\repos\Project GUI\Project GUI\obj\Debug\Project GUI.pdb
 C:\Users\Jacob Merritt\source\repos\Project GUI\Project GUI\obj\Debug\Project GUI.vbprojAssemblyReference.cache
+C:\Users\david_000\Desktop\OC 18-19\SERTS\APS Keil\BaseProject_18_08_20\src\VB-GUI\Project GUI\bin\Debug\Project GUI.exe.config
+C:\Users\david_000\Desktop\OC 18-19\SERTS\APS Keil\BaseProject_18_08_20\src\VB-GUI\Project GUI\obj\Debug\Project GUI.exe
+C:\Users\david_000\Desktop\OC 18-19\SERTS\APS Keil\BaseProject_18_08_20\src\VB-GUI\Project GUI\obj\Debug\Project GUI.xml
+C:\Users\david_000\Desktop\OC 18-19\SERTS\APS Keil\BaseProject_18_08_20\src\VB-GUI\Project GUI\obj\Debug\Project GUI.pdb
